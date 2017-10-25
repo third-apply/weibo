@@ -1,5 +1,5 @@
 {
-    "name": "third-apply/weibo",
+    "name": "third/weibo",
     "type": "library",
     "description": "这是第三方接口开发",
     "keywords": ["sdk","weibo"],
@@ -17,6 +17,6 @@
         "php": ">=5.0.0"
     },
     "autoload": {
-        "psr-4":{"third\\weeibo":"src"}
+        "psr-4":{"third\\weibo":"src"}
     }
 }
