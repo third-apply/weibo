@@ -1,0 +1,22 @@
+{
+    "name": "third-apply/weibo",
+    "type": "library",
+    "description": "这是第三方接口开发",
+    "keywords": ["sdk","weibo"],
+    "homepage": "http://github.com/third-apply/weibo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanglei",
+            "email": "2130137774@qq.com",
+            "homepage": "http://htw.applyapp.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-4":{"third\\weeibo":"src"}
+    }
+}
